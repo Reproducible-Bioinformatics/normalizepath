@@ -1,0 +1,12 @@
+Package: normalizepath
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.1
+Authors@R: 
+    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Imports: jsonlite (>= 1.8.0)
+RoxygenNote: 7.3.2
