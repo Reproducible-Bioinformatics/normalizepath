@@ -1,0 +1,12 @@
+Package: normalizepath
+Title: Normalizes Paths with Heuristics
+Version: 0.0.1
+Authors@R: 
+    person("Eliseo", "Martelli", , "repbio@eliseomartelli.it",
+	role = c("aut", "cre"))
+Description: Normalizes paths with heuristics, and mapping functions.
+License: file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Imports: jsonlite (>= 1.8.0)
+RoxygenNote: 7.3.2
